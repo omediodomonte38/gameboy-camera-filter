@@ -57,7 +57,7 @@ Reads most types of images through opencv
 
 |               Original image (Wikipedia)                |
 | :-----------------------------------------------------: |
-| <img src="./examples/mona_lisa.jpg" style="zoom:5%;" /> |
+| <img src="./examples/mona_lisa.jpg" width="240" height="356">|
 
 
 
