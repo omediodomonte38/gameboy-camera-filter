@@ -61,7 +61,7 @@ Reads most types of images through opencv
 
 
 
-| Palette 0, standard game boy look                       | Palette 3 - Nostalgia                                   | Palette 2 - Spacehaze                                      |
+| Palette 0, original game boy                       | Palette 3 - Nostalgia                                   | Palette 2 - Spacehaze                                      |
 |---------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
 | <img src="./examples/mona_og.jpg" style="zoom:100%;" /> | <img src="./examples/mona_gb.jpg" style="zoom:100%;" /> | <img src="./examples/mona_space.jpg" style="zoom:100%;" /> |
 
