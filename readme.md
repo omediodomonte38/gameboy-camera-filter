@@ -61,24 +61,14 @@ Reads most types of images through opencv
 
 
 
-|            Palette 0, standard game boy look            |                  Palette 3 - Nostalgia                  |
-| :-----------------------------------------------------: | :-----------------------------------------------------: |
-| <img src="./examples/mona_og.jpg" style="zoom:100%;" /> | <img src="./examples/mona_gb.jpg" style="zoom:100%;" /> |
+| Palette 0, standard game boy look                       | Palette 3 - Nostalgia                                   | Palette 2 - Spacehaze                                      |
+|---------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+| <img src="./examples/mona_og.jpg" style="zoom:100%;" /> | <img src="./examples/mona_gb.jpg" style="zoom:100%;" /> | <img src="./examples/mona_space.jpg" style="zoom:100%;" /> |
 
 
-
-|                   Palette 2 - Spacehaze                    |                   Palette 3 - ice cream                    |
-| :--------------------------------------------------------: | :--------------------------------------------------------: |
-| <img src="./examples/mona_space.jpg" style="zoom:100%;" /> | <img src="./examples/mona_cream.jpg" style="zoom:100%;" /> |
-
-
-
-
-
-|                     Palette 4 - Wish                      |                     Palette 4 - Ayy4                     |
-| :-------------------------------------------------------: | :------------------------------------------------------: |
-| <img src="./examples/mona_wish.jpg" style="zoom:100%;" /> | <img src="./examples/mona_aes.jpg" style="zoom:100%;" /> |
-
+| Palette 3 - ice cream                                      | Palette 4 - Wish                                          | Palette 4 - Ayy4                                         |
+|------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
+| <img src="./examples/mona_cream.jpg" style="zoom:100%;" /> | <img src="./examples/mona_wish.jpg" style="zoom:100%;" /> | <img src="./examples/mona_aes.jpg" style="zoom:100%;" /> |
 
 
 
